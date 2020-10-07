@@ -62,3 +62,4 @@ Testing files must end in ".spec.js" or ".test.js"
 ### Running tests 
 Testing command follows the structure of "npm run [test folder]:[test sub folder]
 e.g. the example test would be "npm run test:unit"
+.
